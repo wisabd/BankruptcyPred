@@ -75,6 +75,7 @@ It is contained in a file called poland-bankruptcy-data-2009.json. It is in a di
 | bankrupt  | Whether company went bankrupt at end of forecasting period (2013)                             |
 
 
+<img width="471" alt="image" src="https://github.com/user-attachments/assets/b207175f-fa71-4228-8f27-de721a65e68a" />
 
 
 
